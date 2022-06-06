@@ -190,7 +190,7 @@ img{
 
 .pie-pagina{
     width: 100%;
-    background-color: #0a141d;
+    background-color: rgb(192, 179, 175);
     margin-top: 40px;
 }
 
@@ -245,7 +245,7 @@ img{
 }
 
 .pie-pagina .grupo-2{
-    background-color: #0a1a2a;
+    background-color: rgb(163, 150, 145);
     padding: 15px 10px;
     text-align: center;
     color: #fff;
